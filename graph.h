@@ -1,6 +1,7 @@
 #ifndef GRAPH_H                // Если не определён идентификатор GRAPH_H
 #define GRAPH_H                // Определяем идентификатор GRAPH_H, чтобы избежать повторных включений
 
+#include <stdio.h>
 #include <stdlib.h>            // Стандартная библиотека для функций malloc, free, atof и т.д.
 #include <string.h>            // Библиотека для работы со строками (strncmp, strlen и т.д.)
 #include <math.h>              // Математические функции (sin, cos, tan, sqrt, log и т.д.)
